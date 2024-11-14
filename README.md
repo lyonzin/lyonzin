@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="center" title="Bem-vindo ao meu perfil 👋">🛡️ Lyon - Blue Team & Threat Hunter 🕵️‍♂️</h1>
+<h1 align="center" title="Bem-vindo ao meu perfil 👋">🛡️ Lyon. - Blue Team & Threat Hunter 🕵️‍♂️</h1>
 
 <!-- Descrição Profissional -->
 <p align="center">
