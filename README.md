@@ -87,16 +87,6 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 ---
 
-## 💬 Contato
-
-Para perguntas, sugestões ou colaborações, entre em contato:
-
-- **E-mail**: [Clique para enviar um e-mail](mailto:seu-email@exemplo.com)
-- **LinkedIn**: [Seu LinkedIn](#)
-- **Twitter**: [Seu Twitter](#)
-
----
-
 </p>
 </details>
 
