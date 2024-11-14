@@ -82,7 +82,7 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 ## 📝 Projetos Principais
 
-- [XorGen Pro](https://github.com/seu-usuario/xorgen-pro) - Ferramenta de codificação e decodificação XOR aprimorada para Blue Team.
+- [XorGen Pro]([(https://github.com/lyonzin/XorGen)) - Ferramenta de codificação e decodificação XOR aprimorada para Blue Team.
 - [ThreatHunting Toolkit](https://github.com/seu-usuario/threathunting-toolkit) - Conjunto de scripts e queries para detecção de ameaças.
 
 ---
