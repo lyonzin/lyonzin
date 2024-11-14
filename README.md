@@ -97,22 +97,14 @@ Para perguntas, sugestões ou colaborações, entre em contato:
 
 ---
 
-## 🚀 Citação ou Mensagem Pessoal
-
-> *"Coloque sua mensagem pessoal aqui. Uma citação inspiradora ou seu lema de Threat Hunting."*
-
 </p>
 </details>
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="950" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
-
 </details>
-
-<p align="center"><a href="https://010000010110110001101001011000110110100101100001.com/"><sup><sub>010000010110110001101001011000110110100101100001.com</sub></sup></a></p>
-
 
 ---
 
