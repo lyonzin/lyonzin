@@ -117,5 +117,5 @@ Para perguntas, sugestões ou colaborações, entre em contato:
 ---
 
 <p align="center">
-  Desenvolvido com 🛡️ e paixão por Lyon | Blue Team & Threat Hunter
+  Desenvolvido com 🛡️ e paixão por Blue Team & Threat Hunter
 </p>
