@@ -3,7 +3,7 @@
 
 <!-- Descrição Profissional -->
 <p align="center">
-eCIR | eCTHP | DCPT | SCFE | CSIRT | Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Hacking | Detection Engineer
+Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Hacking | Detection Engineer
 </p>
 
 <!-- Contato e Redes Sociais -->
