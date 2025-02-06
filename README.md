@@ -38,8 +38,6 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-a8b9cc.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572b6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Php](https://img.shields.io/badge/php-777bb4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2c2d72.svg?style=for-the-badge&logo=lua&logoColor=white)
