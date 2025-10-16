@@ -49,6 +49,8 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ![Debian](https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
 ![Virtual Box](https://img.shields.io/badge/virtual%20box-183a61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 
 #### ✒️ IDEs/Editors
 ![Vim](https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
