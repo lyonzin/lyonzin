@@ -33,9 +33,7 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias — Dark Theme
-
-> Badges otimizados para tema escuro (cores profundas, alto contraste).
+## 🛠️ Ferramentas e Tecnologias
 
 ### 🔍 Ferramentas de Defesa & EDR
 [![PowerShell](https://img.shields.io/badge/PowerShell-0B5FFF?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
