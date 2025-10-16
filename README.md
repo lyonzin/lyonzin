@@ -63,7 +63,7 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 #### 🗣️ Human Languages
 ![English](https://img.shields.io/badge/english-3670A0?style=for-the-badge&logoColor=white)
-
+![Portugues](https://img.shields.io/badge/Portugues-3670A0?style=for-the-badge&logoColor=white)
 #### 📚 Knowledgable About
 ![Crypto](https://img.shields.io/badge/crypto%20currency-black.svg?style=for-the-badge)
 ![AI](https://img.shields.io/badge/ai-black.svg?style=for-the-badge)
