@@ -31,6 +31,7 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 [![Elastic Stack](https://img.shields.io/badge/-Elastic_Stack-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/elastic-stack/)
 [![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-F80000?style=flat&logo=crowdstrike&logoColor=white)](https://www.crowdstrike.com/)
 [![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/)
+![Cortex XDR](https://img.shields.io/badge/Cortex-XDR-0078D4?style=flat&logo=data:image/svg+xml;base64,SEU_BASE64_AQUI&logoColor=white)
 
 #### **Tecnologias/Linguegens** 
 ![Bash](https://img.shields.io/badge/bash-4eaa25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -63,7 +64,7 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 #### 🗣️ Human Languages
 ![English](https://img.shields.io/badge/english-3670A0?style=for-the-badge&logoColor=white)
-![Portugues](https://img.shields.io/badge/Portugues-3670A0?style=for-the-badge&logoColor=white)
+![Português (Brazil)](https://img.shields.io/badge/português%20(Brazil)-009739?style=for-the-badge&logo=googletranslate&logoColor=white)
 #### 📚 Knowledgable About
 ![Crypto](https://img.shields.io/badge/crypto%20currency-black.svg?style=for-the-badge)
 ![AI](https://img.shields.io/badge/ai-black.svg?style=for-the-badge)
