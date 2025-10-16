@@ -1,5 +1,9 @@
 <!-- Título -->
-<h1 align="center" title="Bem-vindo ao meu perfil 👋">🛡️ Lyon. - Blue Team & Threat Hunter 🕵️‍♂️</h1>
+<h1 align="center" title="Bem-vindo ao meu perfil 👋"    <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' 
+        alt='Waving hand animated gif'
+        height='30px'
+        width='30px' />
+>🛡️ Lyon. - Blue Team & Threat Hunter 🕵️‍♂️</h1>
 
 <!-- Descrição Profissional -->
 <p align="center">
@@ -36,26 +40,24 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ![Bash](https://img.shields.io/badge/bash-4eaa25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-a8b9cc.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Php](https://img.shields.io/badge/php-777bb4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2c2d72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+
 
 #### 🖥️ Operating Systems & Virtual Machines
 ![Linux](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)
-![Arch](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
-![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=macos&logoColor=white)
 ![Virtual Box](https://img.shields.io/badge/virtual%20box-183a61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 #### ✒️ IDEs/Editors
-![Neovim](https://img.shields.io/badge/neovim-57a143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/visual%20Studio%20Code-007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodePen](https://img.shields.io/badge/code%20pen-black?style=for-the-badge&logo=codepen&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual%20Studio%20Code-007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### 🔌 Networks
 ![Wireshark](https://img.shields.io/badge/wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -68,10 +70,7 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ![Crypto](https://img.shields.io/badge/crypto%20currency-black.svg?style=for-the-badge)
 ![AI](https://img.shields.io/badge/ai-black.svg?style=for-the-badge)
 
-
 ---
-
-
 
 ## 🏅 Certificações
 
@@ -87,9 +86,7 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 ---
 
-
 ## 📝 Projetos Principais
-
 - [XorGen Pro](https://github.com/lyonzin/XorGen) - Ferramenta de codificação e decodificação XOR aprimorada para Blue Team.
 - [ThreatHunting Toolkit](https://github.com/seu-usuario/threathunting-toolkit) - Conjunto de scripts e queries para detecção de ameaças.
 ---
