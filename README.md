@@ -30,7 +30,6 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
     </a>
   </kbd>
 </p>
-
 ---
 
 ## 🛠️ Ferramentas e Tecnologias — Dark Theme
@@ -99,8 +98,6 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ---
 
 ## 🔓 Offense & AD (Ferramentas de Pentest / Post-Exploitation)
-
-> Seção destinada a pentests, simulação de ataque e red-team ops em Active Directory. Use apenas em ambientes autorizados.
 
 [![Impacket](https://img.shields.io/badge/Impacket-1F2430?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SecureAuthCorp/impacket)  
 [![BloodHound](https://img.shields.io/badge/BloodHound-2B0D1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0i...&logoColor=white)](https://github.com/BloodHoundAD/BloodHound)  
