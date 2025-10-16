@@ -1,9 +1,5 @@
 <!-- Título -->
-<h1 align="center" title="Bem-vindo ao meu perfil 👋"    <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' 
-        alt='Waving hand animated gif'
-        height='30px'
-        width='30px' />
->🛡️ Lyon. - Blue Team & Threat Hunter 🕵️‍♂️</h1>
+<h1 align="center" title="Bem-vindo ao meu perfil👋">🛡️ Lyon. - Blue Team & Threat Hunter 🕵️‍♂️</h1>
 
 <!-- Descrição Profissional -->
 <p align="center">
