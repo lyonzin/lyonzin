@@ -14,22 +14,23 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 <p align="center">
   <kbd>
     <a href="#" title="E-mail">
-      <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
     </a>
     <a href="#" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a href="#" title="X (Twitter)">
-      <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+      <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
     </a>
     <a href="#" title="GitHub">
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" />
     </a>
     <a href="#" title="Mastodon">
-      <img src="https://img.shields.io/badge/Mastodon-6E6EFF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
+      <img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" />
     </a>
   </kbd>
 </p>
+
 ---
 
 ## 🛠️ Ferramentas e Tecnologias — Dark Theme
