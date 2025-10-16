@@ -42,7 +42,36 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2c2d72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+#### 🖥️ Operating Systems & Virtual Machines
+![Linux](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)
+![Arch](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=macos&logoColor=white)
+![Virtual Box](https://img.shields.io/badge/virtual%20box-183a61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+#### ✒️ IDEs/Editors
+![Neovim](https://img.shields.io/badge/neovim-57a143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual%20Studio%20Code-007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CodePen](https://img.shields.io/badge/code%20pen-black?style=for-the-badge&logo=codepen&logoColor=white)
+
+#### 🔌 Networks
+![Wireshark](https://img.shields.io/badge/wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white)
+![SSH](https://img.shields.io/badge/ssh-505050?style=for-the-badge)
+
+#### 🗣️ Human Languages
+![English](https://img.shields.io/badge/english-3670A0?style=for-the-badge&logoColor=white)
+
+#### 📚 Knowledgable About
+![Crypto](https://img.shields.io/badge/crypto%20currency-black.svg?style=for-the-badge)
+![AI](https://img.shields.io/badge/ai-black.svg?style=for-the-badge)
+
+
 ---
+
+
 
 ## 🏅 Certificações
 
