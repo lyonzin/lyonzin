@@ -123,6 +123,13 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 | **DCPT** | Desec Security | Penetration Testing |
 | **SCFE** | Sec4Us | Digital Forensics |
 
+### Especialidades
+- **Anti-Cheat Developer**
+- **Blue Team Specialist**
+- **Forensic Expert**
+- **Threat Hunting Expert**
+- **Ethical Hacking & Detection Engineer**
+
 ---
 
 ## 🧩 Projetos em Destaque
