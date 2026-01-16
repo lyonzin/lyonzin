@@ -13,22 +13,18 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 <!-- Contato e Redes Sociais -->
 <p align="center">
   <kbd>
-    <a href="#" title="E-mail">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
-    </a>
-    <a href="#" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/aiiltonrocha/" title="LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white" />
     </a>
-    <a href="#" title="X (Twitter)">
-      <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-    </a>
-    <a href="#" title="GitHub">
+    <a href="https://github.com/lyonzin" title="GitHub">
       <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" />
     </a>
-    <a href="#" title="Mastodon">
-      <img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" />
-    </a>
   </kbd>
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lyonzin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -114,15 +110,18 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ---
 
 ## 🏅 Certificações
-- **eCIR — Incident Response**
-- **eCTHP — Threat Hunting**
-- **SCFE — Security Forensics Expert**
-- **CSIRT — Computer Security Incident Response Team**
-- **Anti-Cheat Developer**
-- **Blue Team Specialist**
-- **Forensic Expert**
-- **Threat Hunting Expert**
-- **Ethical Hacking & Detection Engineer**
+
+[![eCIR](https://img.shields.io/badge/eCIR-Incident%20Response-dc3545?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxa0g4djJoMlY0em0yIDBoMnYyaC0yVjR6bTAgMTBoMnYyaC0ydi0yem0tMiAwaC0ydjJoMnYtMnoiLz48L3N2Zz4=)](https://ine.com/learning/certifications/internal/elearnsecurity-certified-incident-responder)
+[![eCTHP](https://img.shields.io/badge/eCTHP-Threat%20Hunting-0d6efd?style=for-the-badge)](https://ine.com/learning/certifications/internal/elearnsecurity-certified-threat-hunting-professional)
+[![DCPT](https://img.shields.io/badge/DCPT-Pentest-198754?style=for-the-badge)](https://desecsecurity.com/curso/dcpt)
+[![SCFE](https://img.shields.io/badge/SCFE-Forensics-6f42c1?style=for-the-badge)](https://sec4us.com.br/treinamentos/)
+
+| Certificação | Instituição | Área |
+|--------------|-------------|------|
+| **eCIR** | INE/eLearnSecurity | Incident Response |
+| **eCTHP** | INE/eLearnSecurity | Threat Hunting |
+| **DCPT** | Desec Security | Penetration Testing |
+| **SCFE** | Sec4Us | Digital Forensics |
 
 ---
 
