@@ -98,9 +98,70 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 ---
 
-### **📚 Áreas de Interesse**
-![Crypto](https://img.shields.io/badge/crypto%20currency-000000.svg?style=for-the-badge)
-![AI](https://img.shields.io/badge/artificial%20intelligence-000000.svg?style=for-the-badge)
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- 🤖 SEÇÃO DE INTELIGÊNCIA ARTIFICIAL -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🤖-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-gradient?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
+  <img src="https://img.shields.io/badge/&_AUTOMATION-10a37f?style=for-the-badge" />
+</h2>
+
+<p align="center">
+  <i>Construindo o futuro da segurança com IA aplicada</i>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🧠 LLMs & Modelos
+
+[![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
+[![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai)
+[![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
+
+</td>
+<td align="center" width="50%">
+
+### 🔗 RAG & Vector DBs
+
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)](https://trychroma.com)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)](https://pinecone.io)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![Embeddings](https://img.shields.io/badge/Embeddings-5A5A5A?style=for-the-badge)](https://platform.openai.com/docs/guides/embeddings)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### ✨ Prompt Engineering
+
+[![System Prompts](https://img.shields.io/badge/System_Prompts-2E86AB?style=for-the-badge)](https://www.promptingguide.ai/)
+[![Chain of Thought](https://img.shields.io/badge/Chain_of_Thought-A23B72?style=for-the-badge)](https://arxiv.org/abs/2201.11903)
+[![Few-Shot](https://img.shields.io/badge/Few--Shot_Learning-F18F01?style=for-the-badge)](https://arxiv.org/abs/2005.14165)
+[![Jailbreak Defense](https://img.shields.io/badge/Jailbreak_Defense-C73E1D?style=for-the-badge)](https://llmsecurity.net/)
+
+</td>
+<td align="center">
+
+### 🛠️ AI Tools & Infra
+
+[![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![MCP](https://img.shields.io/badge/MCP_Protocol-FF4785?style=for-the-badge)](https://modelcontextprotocol.io)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <code>🔒 AI + Security = Detecção Inteligente de Ameaças</code>
+</p>
 
 ---
 
