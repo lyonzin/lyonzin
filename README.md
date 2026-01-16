@@ -22,11 +22,6 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
   </kbd>
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyonzin&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### **🔍 Ferramentas de Segurança**
