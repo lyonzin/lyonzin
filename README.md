@@ -127,8 +127,8 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 ---
 
 ## 🧩 Projetos em Destaque
-- [**XorGen Pro**](https://github.com/lyonzin/XorGen) — Ferramenta avançada de codificação e decodificação XOR para ambientes de defesa cibernética.  
-- [**Threat Hunting Toolkit**](https://github.com/seu-usuario/threathunting-toolkit) — Conjunto de scripts, queries e artefatos para caçar ameaças e detectar comportamentos anômalos.
+- [**XorGen Pro**](https://github.com/lyonzin/XorGen) — Ferramenta avançada de codificação e decodificação XOR para ambientes de defesa cibernética.
+- [**Knowledge RAG**](https://github.com/lyonzin/knowledge-rag) — Sistema local de RAG (Retrieval-Augmented Generation) para Claude Code via MCP. Busca semântica + keyword routing em documentos de segurança, CTF e desenvolvimento.
 
 ---
 
