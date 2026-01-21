@@ -1,5 +1,5 @@
 # Action to generate metrics using LowLighter/Metrics
-# Based on Lissy93's configuration - Fixed habits plugin
+# Based on Lissy93's configuration
 
 name: Generate Metrics
 on:
@@ -11,7 +11,7 @@ on:
       - main
 
 jobs:
-  # Main Metrics - Summary with Habits
+  # Main Metrics - Summary
   summary-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -41,11 +41,11 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories: no
           
-          # Habits plugin - CONFIGURACAO CORRETA
+          # Habits plugin - REDUCIDO para evitar bug
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
-          plugin_habits_days: 28
-          plugin_habits_from: 500
+          plugin_habits_days: 14
+          plugin_habits_from: 100
