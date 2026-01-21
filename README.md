@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Lyon+-+Blue+Team+%26+Threat+Hunter;Detection+Engineer+%7C+Ethical+Hacking;%E3%83%84" alt="Typing SVG" />
   </a>
 </p>
-
 ### 👤 About
 
 Sou Engenheiro de Detecção. Construo detecções que pegam atacantes antes deles causarem dano. Minha especialidade é encontrar o que os atacantes tentam esconder.
@@ -13,9 +12,6 @@ Sou Engenheiro de Detecção. Construo detecções que pegam atacantes antes del
 Tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cortex XDR. Também participo de programas de bug bounty para manter as skills afiadas.
 
 Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering defensivo e automação de threat hunting com LLMs & A Multi-Agents de IA focados em atividades Offensiva.
-
-Tenho um homelab onde testo técnicas ofensivas e defensivas, simulando ambientes de AD.
-
 <br/>
 
 <p align="center">
