@@ -1,17 +1,17 @@
 # Action to generate metrics using LowLighter/Metrics
-# Based on Lissy93's configuration
+# Based on Lissy93's configuration - Fixed habits plugin
 
 name: Generate Metrics
 on:
   schedule:
-    - cron: '0 0 * * *'  # Roda diariamente a meia-noite
-  workflow_dispatch:  # Permite executar manualmente
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  # Main Metrics - Summary
+  # Main Metrics - Summary with Habits
   summary-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -40,3 +40,12 @@ jobs:
           # Discussions
           plugin_discussions: yes
           plugin_discussions_categories: no
+          
+          # Habits plugin - CONFIGURACAO CORRETA
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+          plugin_habits_days: 28
+          plugin_habits_from: 500
