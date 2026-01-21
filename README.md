@@ -5,7 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Lyon+-+Blue+Team+%26+Threat+Hunter;Detection+Engineer+%7C+Ethical+Hacking;%E3%83%84" alt="Typing SVG" />
   </a>
 </p>
-### 👤 About
+
+## 👤 About
 
 Sou Engenheiro de Detecção. Construo detecções que pegam atacantes antes deles causarem dano. Minha especialidade é encontrar o que os atacantes tentam esconder.
 
