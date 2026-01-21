@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <i>Especialista em segurança ofensiva e defensiva, com foco em Threat Hunting, Incident Response e desenvolvimento de soluções Anti-Cheat. Apaixonado por automação com IA e detecção inteligente de ameaças.</i>
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/aiiltonrocha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
