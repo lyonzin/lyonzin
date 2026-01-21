@@ -57,20 +57,20 @@
 
 **Credential Attacks**
 
-![Mimikatz](https://img.shields.io/badge/Mimikatz-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
-![Rubeus](https://img.shields.io/badge/Rubeus-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
-![Kerberoast](https://img.shields.io/badge/Kerberoast-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
-![SecretsDump](https://img.shields.io/badge/SecretsDump-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
+[![Mimikatz](https://img.shields.io/badge/Mimikatz-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/gentilkiwi/mimikatz)
+[![Rubeus](https://img.shields.io/badge/Rubeus-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/GhostPack/Rubeus)
+[![Kerberoast](https://img.shields.io/badge/Kerberoast-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/nidem/kerberoast)
+[![SecretsDump](https://img.shields.io/badge/SecretsDump-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/fortra/impacket)
 
 </td>
 <td align="center">
 
 **Enumeration**
 
-![BloodHound](https://img.shields.io/badge/BloodHound-1a0a2e?style=flat-square&logo=neo4j&logoColor=C084FC)
-![SharpHound](https://img.shields.io/badge/SharpHound-1a0a2e?style=flat-square&logo=github&logoColor=C084FC)
-![AdFind](https://img.shields.io/badge/AdFind-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
-![Enum4Linux](https://img.shields.io/badge/Enum4Linux-1a0a2e?style=flat-square&logo=linux&logoColor=C084FC)
+[![BloodHound](https://img.shields.io/badge/BloodHound-1a0a2e?style=flat-square&logo=neo4j&logoColor=C084FC)](https://github.com/BloodHoundAD/BloodHound)
+[![SharpHound](https://img.shields.io/badge/SharpHound-1a0a2e?style=flat-square&logo=github&logoColor=C084FC)](https://github.com/BloodHoundAD/SharpHound)
+[![AdFind](https://img.shields.io/badge/AdFind-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://www.joeware.net/freetools/tools/adfind/)
+[![Enum4Linux](https://img.shields.io/badge/Enum4Linux-1a0a2e?style=flat-square&logo=linux&logoColor=C084FC)](https://github.com/CiscoCXSecurity/enum4linux)
 
 </td>
 </tr>
@@ -79,20 +79,20 @@
 
 **Lateral Movement**
 
-![Impacket](https://img.shields.io/badge/Impacket-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
-![CrackMapExec](https://img.shields.io/badge/CrackMapExec-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
-![SmbMap](https://img.shields.io/badge/SmbMap-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
-![PsExec](https://img.shields.io/badge/PsExec-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+[![Impacket](https://img.shields.io/badge/Impacket-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/fortra/impacket)
+[![CrackMapExec](https://img.shields.io/badge/CrackMapExec-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/Pennyw0rth/NetExec)
+[![SmbMap](https://img.shields.io/badge/SmbMap-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/ShawnDEvans/smbmap)
+[![PsExec](https://img.shields.io/badge/PsExec-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://learn.microsoft.com/sysinternals/downloads/psexec)
 
 </td>
 <td align="center">
 
 **C2 & Post-Exploitation**
 
-![Empire](https://img.shields.io/badge/Empire-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
-![PowerSploit](https://img.shields.io/badge/PowerSploit-1a0a2e?style=flat-square&logo=powershell&logoColor=C084FC)
-![Responder](https://img.shields.io/badge/Responder-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
-![ADCS](https://img.shields.io/badge/ADCS_Attacks-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+[![Empire](https://img.shields.io/badge/Empire-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/BC-SECURITY/Empire)
+[![PowerSploit](https://img.shields.io/badge/PowerSploit-1a0a2e?style=flat-square&logo=powershell&logoColor=C084FC)](https://github.com/PowerShellMafia/PowerSploit)
+[![Responder](https://img.shields.io/badge/Responder-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/lgandx/Responder)
+[![ADCS](https://img.shields.io/badge/ADCS_Attacks-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/ly4k/Certipy)
 
 </td>
 </tr>
