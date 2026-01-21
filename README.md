@@ -260,9 +260,7 @@
   <img src="https://img.shields.io/badge/📊_METRICS-2d1b4e?style=for-the-badge"/>
 </h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
+<img src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 <br/>
 <br/>
