@@ -19,10 +19,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=%F0%9F%8E%A7+O+que+Lyon+est%C3%A1+ouvindo+agora..." alt="Spotify Title"/>
-</p>
-
-<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=400&lines=%F0%9F%8E%A7+O+que+Lyon+est%C3%A1+ouvindo+agora..." alt="Spotify Title"/><br/>
   <a href="https://open.spotify.com/user/lyonzin">
     <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/>
   </a>
