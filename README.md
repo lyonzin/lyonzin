@@ -268,12 +268,40 @@
   <img src="https://img.shields.io/badge/🧩_FEATURED_PROJECTS-2d1b4e?style=for-the-badge"/>
 </h2>
 
-<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="50%">
 
-[![XorGen Pro](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=XorGen&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=C084FC&icon_color=A855F7)](https://github.com/lyonzin/XorGen)
-[![Knowledge RAG](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=knowledge-rag&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=C084FC&icon_color=A855F7)](https://github.com/lyonzin/knowledge-rag)
+<a href="https://github.com/lyonzin/XorGen">
+  <img src="https://img.shields.io/badge/🔐_XorGen_Pro-1a0a2e?style=for-the-badge&logoColor=white" alt="XorGen"/>
+</a>
 
-</div>
+<p><sub>Ferramenta avançada de codificação e decodificação XOR para ambientes de defesa cibernética</sub></p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/lyonzin/XorGen?style=flat-square&color=A855F7&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/github/forks/lyonzin/XorGen?style=flat-square&color=C084FC&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/badge/Python-1a0a2e?style=flat-square&logo=python&logoColor=A855F7"/>
+</p>
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/lyonzin/knowledge-rag">
+  <img src="https://img.shields.io/badge/🧠_Knowledge_RAG-1a0a2e?style=for-the-badge&logoColor=white" alt="Knowledge RAG"/>
+</a>
+
+<p><sub>Sistema local de RAG para Claude Code via MCP. Busca semântica + BM25 hybrid search</sub></p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/lyonzin/knowledge-rag?style=flat-square&color=A855F7&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/github/forks/lyonzin/knowledge-rag?style=flat-square&color=C084FC&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/badge/Python-1a0a2e?style=flat-square&logo=python&logoColor=A855F7"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
