@@ -278,7 +278,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyonzin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=C084FC&point=ffffff&area=true&area_color=7C3AED" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyonzin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=A855F7&area=true&area_color=7C3AED" width="100%"/>
 </p>
 
 <br/>
