@@ -340,5 +340,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b4e,100:0d1117&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%F0%9F%9B%A1%EF%B8%8F+e+paix%C3%A3o+por+Blue+Team+%26+Threat+Hunting" alt="Footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%F0%9F%9B%A1%EF%B8%8F+e+paix%C3%A3o+por+Blue+Team+%26+Threat+Hunting" alt="Footer"/>
 </p>
