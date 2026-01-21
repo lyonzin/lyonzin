@@ -18,6 +18,14 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://open.spotify.com/user/lyonzin">
+    <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/>
+  </a>
+</p>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
 <h2 align="center">
