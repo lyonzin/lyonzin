@@ -20,9 +20,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/assets/spotify-title.svg" alt="Spotify Title"/><br/>
-  <a href="https://open.spotify.com/user/lyonzin">
-    <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/>
-  </a>
+  <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/>
 </p>
 
 <br/>
