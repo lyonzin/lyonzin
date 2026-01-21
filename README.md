@@ -260,20 +260,10 @@
   <img src="https://img.shields.io/badge/📊_METRICS-2d1b4e?style=for-the-badge"/>
 </h2>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/github-metrics.svg" alt="GitHub Metrics"/>
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="350" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Coding GIF"/>
+</p>
 
 <br/>
 <br/>
