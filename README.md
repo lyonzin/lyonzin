@@ -15,7 +15,7 @@ Tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cor
 Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering defensivo e automação de threat hunting com LLMs & A Multi-Agents de IA focados em atividades Offensiva.
 <br/>
 
-<p align="center">
+<p align="Leftr">
   <a href="https://www.linkedin.com/in/aiiltonrocha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
