@@ -261,8 +261,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyonzin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF" alt="General Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyonzin&theme=midnight-purple&hide_border=true&background=0d1117&ring=A855F7&fire=C084FC&currStreakLabel=FFFFFF" alt="Coding Habits" height="180"/>
+  <img src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 <br/>

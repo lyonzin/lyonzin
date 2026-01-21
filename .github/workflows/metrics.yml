@@ -1,0 +1,50 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda diariamente à meia-noite
+  workflow_dispatch:  # Permite executar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Base config
+          user: lyonzin
+          template: classic
+          base: activity, community, repositories
+          config_timezone: America/Sao_Paulo
+          
+          # Appearance
+          config_display: large
+          config_padding: 0, 8 + 0%
+          
+          # Habits plugin
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_facts: yes
+          plugin_habits_trim: no
+          
+          # Languages plugin
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          
+          # Output
+          filename: github-metrics.svg
+          output_action: commit
