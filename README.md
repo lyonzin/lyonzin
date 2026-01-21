@@ -142,7 +142,11 @@
   <img src="https://img.shields.io/badge/🏅_CERTIFICATIONS-2d1b4e?style=for-the-badge"/>
 </h2>
 
-<p align="center">
+<p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Hacker GIF"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/eCIR-Incident_Response-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/eCTHP-Threat_Hunting-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DCPT-Pentest-A855F7?style=for-the-badge"/>
@@ -162,7 +166,7 @@
 
 </details>
 
-<br/>
+<br clear="both"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ SPECIALTIES                                                                   -->
