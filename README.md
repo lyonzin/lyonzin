@@ -1,111 +1,150 @@
-<!-- ──────────────────────────────── -->
-<!-- 🌐 PERFIL PRINCIPAL -->
-<!-- ──────────────────────────────── -->
-
-<h1 align="center" title="Bem-vindo ao meu perfil 👋">
-🛡️ Lyon — Blue Team & Threat Hunter 🕵️‍♂️
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b4e,100:0d1117&height=120&section=header"/>
 
 <p align="center">
-Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Hacking | Detection Engineer
+  <a href="https://github.com/lyonzin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Lyon+-+Blue+Team+%26+Threat+Hunter;Detection+Engineer+%7C+Ethical+Hacking" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Contato e Redes Sociais -->
 <p align="center">
-  <kbd>
-    <a href="https://www.linkedin.com/in/aiiltonrocha/" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/lyonzin" title="GitHub">
-      <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white" />
-    </a>
-  </kbd>
+  <a href="https://www.linkedin.com/in/aiiltonrocha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/lyonzin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lyonzin&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
----
+<br/>
 
-### **🔍 Ferramentas de Segurança**
-[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![YARA](https://img.shields.io/badge/-YARA-000000?style=flat&logo=yara&logoColor=white)](https://virustotal.github.io/yara/)
-[![Snort](https://img.shields.io/badge/-Snort-800000?style=flat&logo=snort&logoColor=white)](https://www.snort.org/)
-![Sysmon](https://img.shields.io/badge/-Sysmon-0078D4?style=flat&logo=microsoft&logoColor=white)
-[![Volatility](https://img.shields.io/badge/-Volatility-2A3B4D?style=flat)](https://www.volatilityfoundation.org/)
-[![Elastic Stack](https://img.shields.io/badge/-Elastic_Stack-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/elastic-stack/)
-[![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-F80000?style=flat&logo=crowdstrike&logoColor=white)](https://www.crowdstrike.com/)
-[![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/)
-[![Palo Alto Networks](https://img.shields.io/badge/-Palo%20Alto%20Networks-F04E23?style=flat&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/)
-![Cortex XDR](https://img.shields.io/badge/Cortex%20XDR-0078D4?style=flat&logo=data:image/svg+xml;base64,SEU_BASE64_AQUI&logoColor=white)
-
----
-
-### 🔓 Offense & AD (Ferramentas de Pentest / Post-Exploitation)
-
-[![Impacket](https://img.shields.io/badge/Impacket-1F2430?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SecureAuthCorp/impacket)
-[![BloodHound](https://img.shields.io/badge/BloodHound-2B0D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BloodHoundAD/BloodHound)
-[![Mimikatz](https://img.shields.io/badge/Mimikatz-0B0B0B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/gentilkiwi/mimikatz)
-[![CrackMapExec](https://img.shields.io/badge/CrackMapExec-071029?style=for-the-badge&logo=python&logoColor=white)](https://github.com/byt3bl33d3r/CrackMapExec)
-[![Responder](https://img.shields.io/badge/Responder-0A1E2A?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SpiderLabs/Responder)
-[![Rubeus](https://img.shields.io/badge/Rubeus-081426?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/GhostPack/Rubeus)
-[![SharpHound](https://img.shields.io/badge/SharpHound-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BloodHoundAD/SharpHound)
-[![SecretsDump](https://img.shields.io/badge/SecretsDump-0D1117?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SecureAuthCorp/impacket)
-[![PowerSploit](https://img.shields.io/badge/PowerSploit-0E4B8B?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShellMafia/PowerSploit)
-[![Empire](https://img.shields.io/badge/Empire-081029?style=for-the-badge&logo=python&logoColor=white)](https://github.com/BC-SECURITY/Empire)
-[![Kerberoast](https://img.shields.io/badge/Kerberoast-2C2C2C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/nidem/kerberoast)
-[![ADCS Tools](https://img.shields.io/badge/ADCS-2B2B2B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/m0rv4i/adcs)
-[![SmbMap](https://img.shields.io/badge/SmbMap-0F1724?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ShawnDEvans/smbmap)
-[![AdFind](https://img.shields.io/badge/AdFind-0E1724?style=for-the-badge&logo=windows&logoColor=white)](https://www.joeware.net/downloads/FindIt/AdFind.zip)
-
----
-
-### **💻 Linguagens & Tecnologias**
-![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-4eaa25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777bb4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-2c2d72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
----
-
-### **🖥️ Sistemas Operacionais & Virtualização**
-![Linux](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtual%20box-183a61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
----
-
-### **✒️ IDEs / Editores**
-![Visual Studio Code](https://img.shields.io/badge/visual%20Studio%20Code-007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-![CodePen](https://img.shields.io/badge/code%20pen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
----
-
-### **🌐 Redes e Protocolos**
-![Wireshark](https://img.shields.io/badge/wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white)
-![SSH](https://img.shields.io/badge/ssh-505050?style=for-the-badge)
-
----
-
-### **🗣️ Idiomas**
-![English](https://img.shields.io/badge/english-3670A0?style=for-the-badge&logoColor=white)
-![Português (Brazil)](https://img.shields.io/badge/português%20(Brazil)-009739?style=for-the-badge&logo=googletranslate&logoColor=white)
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!-- 🤖 SEÇÃO DE INTELIGÊNCIA ARTIFICIAL -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/🤖-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-gradient?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
-  <img src="https://img.shields.io/badge/&_AUTOMATION-10a37f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔍_SECURITY_TOOLS-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,git,linux,bash&theme=dark" alt="Security Tools"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YARA-1a0a2e?style=flat-square&logo=virustotal&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Snort-1a0a2e?style=flat-square&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Sysmon-1a0a2e?style=flat-square&logo=microsoft&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Volatility-1a0a2e?style=flat-square&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Elastic_Stack-1a0a2e?style=flat-square&logo=elastic&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/CrowdStrike-1a0a2e?style=flat-square&logo=crowdstrike&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Splunk-1a0a2e?style=flat-square&logo=splunk&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Cortex_XDR-1a0a2e?style=flat-square&logo=paloaltonetworks&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Wireshark-1a0a2e?style=flat-square&logo=wireshark&logoColor=A855F7"/>
+</p>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🔓_OFFENSE_&_ACTIVE_DIRECTORY-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<p align="center"><i>Ferramentas de Pentest / Post-Exploitation / AD Attack</i></p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+**Credential Attacks**
+
+![Mimikatz](https://img.shields.io/badge/Mimikatz-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+![Rubeus](https://img.shields.io/badge/Rubeus-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+![Kerberoast](https://img.shields.io/badge/Kerberoast-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+![SecretsDump](https://img.shields.io/badge/SecretsDump-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
+
+</td>
+<td align="center">
+
+**Enumeration**
+
+![BloodHound](https://img.shields.io/badge/BloodHound-1a0a2e?style=flat-square&logo=neo4j&logoColor=C084FC)
+![SharpHound](https://img.shields.io/badge/SharpHound-1a0a2e?style=flat-square&logo=github&logoColor=C084FC)
+![AdFind](https://img.shields.io/badge/AdFind-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+![Enum4Linux](https://img.shields.io/badge/Enum4Linux-1a0a2e?style=flat-square&logo=linux&logoColor=C084FC)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Lateral Movement**
+
+![Impacket](https://img.shields.io/badge/Impacket-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
+![SmbMap](https://img.shields.io/badge/SmbMap-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
+![PsExec](https://img.shields.io/badge/PsExec-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+
+</td>
+<td align="center">
+
+**C2 & Post-Exploitation**
+
+![Empire](https://img.shields.io/badge/Empire-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
+![PowerSploit](https://img.shields.io/badge/PowerSploit-1a0a2e?style=flat-square&logo=powershell&logoColor=C084FC)
+![Responder](https://img.shields.io/badge/Responder-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)
+![ADCS](https://img.shields.io/badge/ADCS_Attacks-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/💻_LANGUAGES_&_TECHNOLOGIES-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,php,lua,mysql&theme=dark" alt="Languages"/>
+  </a>
+</p>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🖥️_SYSTEMS_&_INFRASTRUCTURE-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker&theme=dark" alt="Systems"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VirtualBox-1a0a2e?style=flat-square&logo=virtualbox&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/VMware-1a0a2e?style=flat-square&logo=vmware&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-1a0a2e?style=flat-square&logo=kalilinux&logoColor=A855F7"/>
+</p>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/✒️_IDEs_&_EDITORS-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim&theme=dark" alt="IDEs"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=2&section=header"/>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=%F0%9F%A4%96+ARTIFICIAL+INTELLIGENCE;%26+AUTOMATION" alt="AI Section"/>
 </h2>
 
 <p align="center">
@@ -116,22 +155,30 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 <tr>
 <td align="center" width="50%">
 
-### 🧠 LLMs & Modelos
+### 🧠 LLMs & Models
 
-[![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai)
-[![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
+<p>
+  <img src="https://img.shields.io/badge/Claude-1a0a2e?style=for-the-badge&logo=anthropic&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/GPT--4-1a0a2e?style=for-the-badge&logo=openai&logoColor=A855F7"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Ollama-1a0a2e?style=for-the-badge&logo=ollama&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/LLaMA-1a0a2e?style=for-the-badge&logo=meta&logoColor=A855F7"/>
+</p>
 
 </td>
 <td align="center" width="50%">
 
 ### 🔗 RAG & Vector DBs
 
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)](https://trychroma.com)
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)](https://pinecone.io)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
-[![Embeddings](https://img.shields.io/badge/Embeddings-5A5A5A?style=for-the-badge)](https://platform.openai.com/docs/guides/embeddings)
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-1a0a2e?style=for-the-badge&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Pinecone-1a0a2e?style=for-the-badge&logoColor=A855F7"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1a0a2e?style=for-the-badge&logo=langchain&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/Embeddings-1a0a2e?style=for-the-badge&logoColor=A855F7"/>
+</p>
 
 </td>
 </tr>
@@ -140,20 +187,28 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
 
 ### ✨ Prompt Engineering
 
-[![System Prompts](https://img.shields.io/badge/System_Prompts-2E86AB?style=for-the-badge)](https://www.promptingguide.ai/)
-[![Chain of Thought](https://img.shields.io/badge/Chain_of_Thought-A23B72?style=for-the-badge)](https://arxiv.org/abs/2201.11903)
-[![Few-Shot](https://img.shields.io/badge/Few--Shot_Learning-F18F01?style=for-the-badge)](https://arxiv.org/abs/2005.14165)
-[![Jailbreak Defense](https://img.shields.io/badge/Jailbreak_Defense-C73E1D?style=for-the-badge)](https://llmsecurity.net/)
+<p>
+  <img src="https://img.shields.io/badge/System_Prompts-2d1b4e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Chain_of_Thought-2d1b4e?style=flat-square"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Few--Shot_Learning-2d1b4e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jailbreak_Defense-2d1b4e?style=flat-square"/>
+</p>
 
 </td>
 <td align="center">
 
 ### 🛠️ AI Tools & Infra
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
-[![MCP](https://img.shields.io/badge/MCP_Protocol-FF4785?style=for-the-badge)](https://modelcontextprotocol.io)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-1a0a2e?style=flat-square&logo=anthropic&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/MCP_Protocol-1a0a2e?style=flat-square&logoColor=A855F7"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Cursor-1a0a2e?style=flat-square&logo=cursor&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/HuggingFace-1a0a2e?style=flat-square&logo=huggingface&logoColor=A855F7"/>
+</p>
 
 </td>
 </tr>
@@ -163,46 +218,92 @@ Anti-Cheat Developer | Blue Team | Forensic Expert | Threat Hunting | Ethical Ha
   <code>🔒 AI + Security = Detecção Inteligente de Ameaças</code>
 </p>
 
----
+<br/>
 
-## 🏅 Certificações
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
-[![eCIR](https://img.shields.io/badge/eCIR-Incident%20Response-dc3545?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxa0g4djJoMlY0em0yIDBoMnYyaC0yVjR6bTAgMTBoMnYyaC0ydi0yem0tMiAwaC0ydjJoMnYtMnoiLz48L3N2Zz4=)](https://ine.com/learning/certifications/internal/elearnsecurity-certified-incident-responder)
-[![eCTHP](https://img.shields.io/badge/eCTHP-Threat%20Hunting-0d6efd?style=for-the-badge)](https://ine.com/learning/certifications/internal/elearnsecurity-certified-threat-hunting-professional)
-[![DCPT](https://img.shields.io/badge/DCPT-Pentest-198754?style=for-the-badge)](https://desecsecurity.com/curso/dcpt)
-[![SCFE](https://img.shields.io/badge/SCFE-Forensics-6f42c1?style=for-the-badge)](https://sec4us.com.br/treinamentos/)
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🏅_CERTIFICATIONS-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/eCIR-Incident_Response-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/eCTHP-Threat_Hunting-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DCPT-Pentest-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SCFE-Forensics-C084FC?style=for-the-badge"/>
+</p>
+
+<details>
+<summary><b>📋 Detalhes das Certificações</b></summary>
+<br/>
 
 | Certificação | Instituição | Área |
-|--------------|-------------|------|
+|:------------:|:-----------:|:----:|
 | **eCIR** | INE/eLearnSecurity | Incident Response |
 | **eCTHP** | INE/eLearnSecurity | Threat Hunting |
 | **DCPT** | Desec Security | Penetration Testing |
 | **SCFE** | Sec4Us | Digital Forensics |
 
-### Especialidades
-- **Anti-Cheat Developer**
-- **Blue Team Specialist**
-- **Forensic Expert**
-- **Threat Hunting Expert**
-- **Ethical Hacking & Detection Engineer**
+</details>
 
----
+<br/>
 
-## 🧩 Projetos em Destaque
-- [**XorGen Pro**](https://github.com/lyonzin/XorGen) — Ferramenta avançada de codificação e decodificação XOR para ambientes de defesa cibernética.
-- [**Knowledge RAG**](https://github.com/lyonzin/knowledge-rag) — Sistema local de RAG (Retrieval-Augmented Generation) para Claude Code via MCP. Busca semântica + keyword routing em documentos de segurança, CTF e desenvolvimento.
+<h2 align="center">
+  <img src="https://img.shields.io/badge/⚡_SPECIALTIES-2d1b4e?style=for-the-badge"/>
+</h2>
 
----
-
-<!-- Animação Snek -->
 <p align="center">
-  <a href="#" title="Snek 🐍">
-    <img width="950" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" alt="Snek Animation" />
-  </a>
+  <img src="https://img.shields.io/badge/Anti--Cheat_Developer-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blue_Team_Specialist-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Forensic_Expert-A855F7?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Threat_Hunting_Expert-C084FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Detection_Engineer-DDD6FE?style=for-the-badge&logoColor=1a0a2e"/>
 </p>
 
----
+<br/>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🧩_FEATURED_PROJECTS-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<div align="center">
+
+[![XorGen Pro](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=XorGen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=C084FC)](https://github.com/lyonzin/XorGen)
+[![Knowledge RAG](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=knowledge-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=C084FC)](https://github.com/lyonzin/knowledge-rag)
+
+</div>
+
+<br/>
 
 <p align="center">
-  Desenvolvido com 🛡️ e paixão por Blue Team & Threat Hunting.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyonzin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=C084FC&point=ffffff&area=true&area_color=7C3AED" width="100%"/>
+</p>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/🗣️_LANGUAGES-2d1b4e?style=for-the-badge"/>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Fluent-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Português-Native-C084FC?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b4e,100:0d1117&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%F0%9F%9B%A1%EF%B8%8F+e+paix%C3%A3o+por+Blue+Team+%26+Threat+Hunting" alt="Footer"/>
 </p>
