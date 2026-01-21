@@ -270,8 +270,8 @@
 
 <div align="center">
 
-[![XorGen Pro](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=XorGen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=C084FC)](https://github.com/lyonzin/XorGen)
-[![Knowledge RAG](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=knowledge-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=C084FC)](https://github.com/lyonzin/knowledge-rag)
+[![XorGen Pro](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=XorGen&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=C084FC)](https://github.com/lyonzin/XorGen)
+[![Knowledge RAG](https://github-readme-stats.vercel.app/api/pin/?username=lyonzin&repo=knowledge-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=C084FC)](https://github.com/lyonzin/knowledge-rag)
 
 </div>
 
