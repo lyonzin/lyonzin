@@ -240,7 +240,7 @@
   <img src="https://img.shields.io/badge/SCFE-Forensics-C084FC?style=for-the-badge"/>
 </p>
 
-<details>
+<details open>
 <summary><b>📋 Detalhes das Certificações</b></summary>
 <br/>
 
