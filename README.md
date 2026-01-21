@@ -18,8 +18,6 @@ Desenvolvo soluções Anti-Cheat e ferramentas de automação de segurança. Acr
 
 Tenho um homelab onde testo técnicas ofensivas e defensivas, simulando ambientes de AD.
 
-Quando não estou no terminal, gosto de estudar novas CVEs, assistir lives de CTF e trocar ideias com a comunidade de segurança.
-
 <br/>
 
 <p align="center">
