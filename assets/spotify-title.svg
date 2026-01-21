@@ -5,7 +5,7 @@
       <stop offset="100%" style="stop-color:#A855F7"/>
     </linearGradient>
   </defs>
-  <text x="200" y="18" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="500" fill="url(#pg)" text-anchor="middle">
+  <text x="5" y="18" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="500" fill="url(#pg)" text-anchor="start">
     🎧 O que Lyon está ouvindo agora...
     <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </text>
