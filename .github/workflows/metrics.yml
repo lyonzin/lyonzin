@@ -11,7 +11,7 @@ on:
       - main
 
 jobs:
-  # Main Metrics - Summary (estilo Lissy93)
+  # Main Metrics - Summary
   summary-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -27,12 +27,12 @@ jobs:
           base: activity, community, repositories
           config_timezone: America/Sao_Paulo
           
-          # Habits plugin - coding habits charts
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+          # Languages plugin
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, markdown
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
           
           # Lines of code
           plugin_lines: yes
