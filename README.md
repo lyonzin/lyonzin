@@ -28,126 +28,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🔍_SECURITY_TOOLS-2d1b4e?style=for-the-badge"/>
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ TECH STACK                                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,git,linux,bash&theme=dark&perline=4" alt="Security Tools"/>
-  </a>
-</p>
+<details open>
+<summary><h2>⚡ Tech Stack</h2></summary>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/YARA-1a0a2e?style=flat-square&logo=virustotal&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Snort-1a0a2e?style=flat-square&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Sysmon-1a0a2e?style=flat-square&logo=microsoft&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Volatility-1a0a2e?style=flat-square&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Elastic_Stack-1a0a2e?style=flat-square&logo=elastic&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/CrowdStrike-1a0a2e?style=flat-square&logo=crowdstrike&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Splunk-1a0a2e?style=flat-square&logo=splunk&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Cortex_XDR-1a0a2e?style=flat-square&logo=paloaltonetworks&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/Wireshark-1a0a2e?style=flat-square&logo=wireshark&logoColor=A855F7"/>
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **Red Team** | [![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=flat-square&logo=windows&logoColor=white)](https://github.com/gentilkiwi/mimikatz) [![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=flat-square&logo=neo4j&logoColor=white)](https://github.com/BloodHoundAD/BloodHound) [![Impacket](https://img.shields.io/badge/Impacket-DC143C?style=flat-square&logo=python&logoColor=white)](https://github.com/fortra/impacket) [![NetExec](https://img.shields.io/badge/NetExec-DC143C?style=flat-square&logo=python&logoColor=white)](https://github.com/Pennyw0rth/NetExec) [![Rubeus](https://img.shields.io/badge/Rubeus-DC143C?style=flat-square&logo=windows&logoColor=white)](https://github.com/GhostPack/Rubeus) [![Empire](https://img.shields.io/badge/Empire-DC143C?style=flat-square&logo=python&logoColor=white)](https://github.com/BC-SECURITY/Empire) [![Havoc](https://img.shields.io/badge/Havoc-DC143C?style=flat-square&logo=hackaday&logoColor=white)](https://github.com/HavocFramework/Havoc) [![Responder](https://img.shields.io/badge/Responder-DC143C?style=flat-square&logo=python&logoColor=white)](https://github.com/lgandx/Responder) [![Certipy](https://img.shields.io/badge/Certipy-DC143C?style=flat-square&logo=python&logoColor=white)](https://github.com/ly4k/Certipy) |
+| **Blue Team** | [![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FC4C02?style=flat-square&logo=crowdstrike&logoColor=white)](https://www.crowdstrike.com) [![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-FC4C02?style=flat-square&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/cortex/cortex-xdr) [![Splunk](https://img.shields.io/badge/Splunk-FC4C02?style=flat-square&logo=splunk&logoColor=white)](https://www.splunk.com) [![Elastic](https://img.shields.io/badge/Elastic-FC4C02?style=flat-square&logo=elastic&logoColor=white)](https://www.elastic.co) [![YARA](https://img.shields.io/badge/YARA-FC4C02?style=flat-square&logo=virustotal&logoColor=white)](https://virustotal.github.io/yara/) [![Snort](https://img.shields.io/badge/Snort-FC4C02?style=flat-square&logoColor=white)](https://www.snort.org) [![Sysmon](https://img.shields.io/badge/Sysmon-FC4C02?style=flat-square&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) |
+| **Forensics** | [![Volatility](https://img.shields.io/badge/Volatility-6A5ACD?style=flat-square&logoColor=white)](https://www.volatilityfoundation.org) [![Wireshark](https://img.shields.io/badge/Wireshark-6A5ACD?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org) [![Autopsy](https://img.shields.io/badge/Autopsy-6A5ACD?style=flat-square&logoColor=white)](https://www.autopsy.com) [![FTK](https://img.shields.io/badge/FTK-6A5ACD?style=flat-square&logoColor=white)](https://www.exterro.com/ftk-imager) [![Velociraptor](https://img.shields.io/badge/Velociraptor-6A5ACD?style=flat-square&logoColor=white)](https://docs.velociraptor.app) |
+| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org) [![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net) [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://lua.org) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com) |
+| **AI / LLMs** | [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com) [![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com) [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.ai) [![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)](https://ai.meta.com/llama/) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com) [![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)](https://www.trychroma.com) [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co) |
+| **Infrastructure** | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org) [![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://microsoft.com/windows) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com) [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)](https://www.virtualbox.org) |
+| **Editors** | [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) [![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://vim.org) [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io) |
+
+</details>
 
 <br/>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🔓_OFFENSE_&_ACTIVE_DIRECTORY-2d1b4e?style=for-the-badge"/>
-</h2>
-
-<p align="center"><i>Ferramentas de Pentest / Post-Exploitation / AD Attack</i></p>
-
-<table align="center">
-<tr>
-<td align="center">
-
-**Credential Attacks**
-
-[![Mimikatz](https://img.shields.io/badge/Mimikatz-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/gentilkiwi/mimikatz)
-[![Rubeus](https://img.shields.io/badge/Rubeus-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/GhostPack/Rubeus)
-[![Kerberoast](https://img.shields.io/badge/Kerberoast-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/nidem/kerberoast)
-[![SecretsDump](https://img.shields.io/badge/SecretsDump-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/fortra/impacket)
-
-</td>
-<td align="center">
-
-**Enumeration**
-
-[![BloodHound](https://img.shields.io/badge/BloodHound-1a0a2e?style=flat-square&logo=neo4j&logoColor=C084FC)](https://github.com/BloodHoundAD/BloodHound)
-[![SharpHound](https://img.shields.io/badge/SharpHound-1a0a2e?style=flat-square&logo=github&logoColor=C084FC)](https://github.com/BloodHoundAD/SharpHound)
-[![AdFind](https://img.shields.io/badge/AdFind-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://www.joeware.net/freetools/tools/adfind/)
-[![Enum4Linux](https://img.shields.io/badge/Enum4Linux-1a0a2e?style=flat-square&logo=linux&logoColor=C084FC)](https://github.com/CiscoCXSecurity/enum4linux)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Lateral Movement**
-
-[![Impacket](https://img.shields.io/badge/Impacket-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/fortra/impacket)
-[![NetExec](https://img.shields.io/badge/NetExec-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/Pennyw0rth/NetExec)
-[![SmbMap](https://img.shields.io/badge/SmbMap-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/ShawnDEvans/smbmap)
-[![PsExec](https://img.shields.io/badge/PsExec-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://learn.microsoft.com/sysinternals/downloads/psexec)
-
-</td>
-<td align="center">
-
-**C2 & Post-Exploitation**
-
-[![Empire](https://img.shields.io/badge/Empire-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/BC-SECURITY/Empire)
-[![Havoc](https://img.shields.io/badge/Havoc-1a0a2e?style=flat-square&logo=hackaday&logoColor=C084FC)](https://github.com/HavocFramework/Havoc)
-[![Responder](https://img.shields.io/badge/Responder-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/lgandx/Responder)
-[![ADCS](https://img.shields.io/badge/ADCS_Attacks-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/ly4k/Certipy)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/💻_LANGUAGES_&_TECHNOLOGIES-2d1b4e?style=for-the-badge"/>
-</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,php,lua,mysql&theme=dark&perline=7" alt="Languages"/>
-  </a>
-</p>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🖥️_SYSTEMS_&_INFRASTRUCTURE-2d1b4e?style=for-the-badge"/>
-</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker&theme=dark&perline=5" alt="Systems"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VirtualBox-1a0a2e?style=flat-square&logo=virtualbox&logoColor=A855F7"/>&nbsp;
-  <img src="https://img.shields.io/badge/VMware-1a0a2e?style=flat-square&logo=vmware&logoColor=A855F7"/>&nbsp;
-  <img src="https://img.shields.io/badge/Kali_Linux-1a0a2e?style=flat-square&logo=kalilinux&logoColor=A855F7"/>
-</p>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/✒️_IDEs_&_EDITORS-2d1b4e?style=for-the-badge"/>
-</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim&theme=dark&perline=3" alt="IDEs"/>
-  </a>
-</p>
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ ARTIFICIAL INTELLIGENCE                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=2&section=header"/>
 
@@ -228,6 +132,10 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ CERTIFICATIONS                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
 <h2 align="center">
@@ -256,6 +164,10 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ SPECIALTIES                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">
   <img src="https://img.shields.io/badge/⚡_SPECIALTIES-2d1b4e?style=for-the-badge"/>
 </h2>
@@ -271,6 +183,10 @@
 </p>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ FEATURED PROJECTS                                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/🧩_FEATURED_PROJECTS-2d1b4e?style=for-the-badge"/>
@@ -313,11 +229,19 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ ACTIVITY GRAPH                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyonzin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=A855F7&area=true&area_color=7C3AED" width="100%"/>
 </p>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ LANGUAGES                                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/🗣️_LANGUAGES-2d1b4e?style=for-the-badge"/>
@@ -329,6 +253,10 @@
 </p>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▼ SNAKE ANIMATION                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
