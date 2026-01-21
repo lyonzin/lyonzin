@@ -266,9 +266,9 @@ Tenho um homelab onde testo técnicas ofensivas e defensivas, simulando ambiente
 </h2>
 
 <p align="center">
-  <img src="https://flagcdn.com/24x18/us.png" alt="US"/> <img src="https://img.shields.io/badge/English-Basic-A855F7?style=for-the-badge"/>
-  &nbsp;&nbsp;
-  <img src="https://flagcdn.com/24x18/br.png" alt="BR"/> <img src="https://img.shields.io/badge/Português-Native-C084FC?style=for-the-badge"/>
+  <img src="https://flagcdn.com/w40/us.png" width="28" height="28" alt="US" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/English-Basic-A855F7?style=for-the-badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w40/br.png" width="28" height="28" alt="BR" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/Português-Native-C084FC?style=for-the-badge"/>
 </p>
 
 <br/>
