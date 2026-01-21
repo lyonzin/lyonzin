@@ -25,16 +25,11 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
   <img src="https://komarev.com/ghpvc/?username=lyonzin&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/assets/spotify-title.svg" alt="Spotify Title"/><br/>
   <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/><br/>
   <img src="https://img.shields.io/badge/SPOTIFY_PLAYER-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Player"/>
 </p>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
