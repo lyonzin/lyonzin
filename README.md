@@ -6,9 +6,19 @@
   </a>
 </p>
 
-<p align="center">
-  <i>Especialista em segurança ofensiva e defensiva, com foco em Threat Hunting, Incident Response e desenvolvimento de soluções Anti-Cheat. Apaixonado por automação com IA e detecção inteligente de ameaças.</i>
-</p>
+### 👤 About
+
+**Lyon**
+
+Sou um profissional de segurança baseado no Brasil, especializado em Blue Team e Threat Hunting. Amo caçar ameaças e entender como atacantes pensam.
+
+Me preocupo muito com detecção e resposta a incidentes, e tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cortex XDR. Também participo de programas de bug bounty para manter as skills afiadas.
+
+Desenvolvo soluções Anti-Cheat e ferramentas de automação de segurança. Acredito que IA é o futuro da detecção de ameaças, e estou sempre explorando formas de integrar LLMs em workflows de segurança.
+
+Tenho um homelab onde testo técnicas ofensivas e defensivas, simulando ambientes de AD e praticando em plataformas como HackTheBox e TryHackMe.
+
+Quando não estou no terminal, gosto de estudar novas CVEs, assistir lives de CTF e trocar ideias com a comunidade de segurança.
 
 <br/>
 
