@@ -33,10 +33,9 @@
 </h2>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell"/></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
-  <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,git,linux,bash&theme=dark&perline=4" alt="Security Tools"/>
+  </a>
 </p>
 
 <p align="center">
@@ -113,13 +112,9 @@
 </h2>
 
 <p align="center">
-  <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a>
-  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++"/></a>
-  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
-  <a href="https://php.net"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP"/></a>
-  <a href="https://lua.org"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua"/></a>
-  <a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,php,lua,mysql&theme=dark&perline=7" alt="Languages"/>
+  </a>
 </p>
 
 <br/>
@@ -129,16 +124,14 @@
 </h2>
 
 <p align="center">
-  <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a>
-  <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu"/></a>
-  <a href="https://debian.org"><img src="https://skillicons.dev/icons?i=debian&theme=dark" alt="Debian"/></a>
-  <a href="https://microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows"/></a>
-  <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,docker&theme=dark&perline=5" alt="Systems"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VirtualBox-1a0a2e?style=flat-square&logo=virtualbox&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/VMware-1a0a2e?style=flat-square&logo=vmware&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/VirtualBox-1a0a2e?style=flat-square&logo=virtualbox&logoColor=A855F7"/>&nbsp;
+  <img src="https://img.shields.io/badge/VMware-1a0a2e?style=flat-square&logo=vmware&logoColor=A855F7"/>&nbsp;
   <img src="https://img.shields.io/badge/Kali_Linux-1a0a2e?style=flat-square&logo=kalilinux&logoColor=A855F7"/>
 </p>
 
@@ -149,9 +142,9 @@
 </h2>
 
 <p align="center">
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code"/></a>
-  <a href="https://vim.org"><img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim"/></a>
-  <a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,neovim&theme=dark&perline=3" alt="IDEs"/>
+  </a>
 </p>
 
 <br/>
