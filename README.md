@@ -8,11 +8,13 @@
 
 ### 👤 About
 
-Profissional de segurança especializado em Blue Team e Threat Hunting. Amo caçar ameaças e entender como atacantes pensam.
+Sou Engenheiro de Detecção. Construo detecções que pegam atacantes antes deles causarem dano. Minha especialidade é encontrar o que os atacantes tentam esconder.
 
-Me preocupo muito com detecção e resposta a incidentes, e tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cortex XDR. Também participo de programas de bug bounty para manter as skills afiadas.
+Especialista com perfil Generalista e background único: Mais de 10 anos de experiência em Redes e Segurança da Informação, onde aprendi a detectar comportamento malicioso em escala com milhões de usuários tentando bypassar proteções diariamente.
 
-Desenvolvo soluções Anti-Cheat e ferramentas de automação de segurança. Acredito que IA é o futuro da detecção de ameaças, e estou sempre explorando formas de integrar LLMs em workflows de segurança.
+Tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cortex XDR. Também participo de programas de bug bounty para manter as skills afiadas.
+
+Desenvolvo soluções Anti-Cheat e ferramentas de automação de segurança. Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering defensivo e automação de threat hunting com LLMs.
 
 Tenho um homelab onde testo técnicas ofensivas e defensivas, simulando ambientes de AD.
 
