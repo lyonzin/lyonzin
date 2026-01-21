@@ -80,7 +80,7 @@
 **Lateral Movement**
 
 [![Impacket](https://img.shields.io/badge/Impacket-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/fortra/impacket)
-[![CrackMapExec](https://img.shields.io/badge/CrackMapExec-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/Pennyw0rth/NetExec)
+[![NetExec](https://img.shields.io/badge/NetExec-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/Pennyw0rth/NetExec)
 [![SmbMap](https://img.shields.io/badge/SmbMap-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/ShawnDEvans/smbmap)
 [![PsExec](https://img.shields.io/badge/PsExec-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://learn.microsoft.com/sysinternals/downloads/psexec)
 
@@ -90,7 +90,7 @@
 **C2 & Post-Exploitation**
 
 [![Empire](https://img.shields.io/badge/Empire-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/BC-SECURITY/Empire)
-[![PowerSploit](https://img.shields.io/badge/PowerSploit-1a0a2e?style=flat-square&logo=powershell&logoColor=C084FC)](https://github.com/PowerShellMafia/PowerSploit)
+[![Havoc](https://img.shields.io/badge/Havoc-1a0a2e?style=flat-square&logo=hackaday&logoColor=C084FC)](https://github.com/HavocFramework/Havoc)
 [![Responder](https://img.shields.io/badge/Responder-1a0a2e?style=flat-square&logo=python&logoColor=C084FC)](https://github.com/lgandx/Responder)
 [![ADCS](https://img.shields.io/badge/ADCS_Attacks-1a0a2e?style=flat-square&logo=windows&logoColor=C084FC)](https://github.com/ly4k/Certipy)
 
