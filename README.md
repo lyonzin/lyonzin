@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lyonzin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Lyon+-+Blue+Team+%26+Threat+Hunter;Detection+Engineer+%7C+Ethical+Hacking" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Lyon+-+Blue+Team+%26+Threat+Hunter;Detection+Engineer+%7C+Ethical+Hacking" alt="Typing SVG" />
   </a>
 </p>
 
