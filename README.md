@@ -16,7 +16,7 @@ Me preocupo muito com detecção e resposta a incidentes, e tenho experiência c
 
 Desenvolvo soluções Anti-Cheat e ferramentas de automação de segurança. Acredito que IA é o futuro da detecção de ameaças, e estou sempre explorando formas de integrar LLMs em workflows de segurança.
 
-Tenho um homelab onde testo técnicas ofensivas e defensivas, simulando ambientes de AD e praticando em plataformas como HackTheBox e TryHackMe.
+Tenho um homelab onde testo técnicas ofensivas e defensivas, simulando ambientes de AD.
 
 Quando não estou no terminal, gosto de estudar novas CVEs, assistir lives de CTF e trocar ideias com a comunidade de segurança.
 
