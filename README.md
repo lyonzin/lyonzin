@@ -176,8 +176,6 @@
   <img src="https://img.shields.io/badge/Anti--Cheat_Developer-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Blue_Team_Specialist-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Forensic_Expert-A855F7?style=for-the-badge"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Threat_Hunting_Expert-C084FC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Detection_Engineer-DDD6FE?style=for-the-badge&logoColor=1a0a2e"/>
 </p>
