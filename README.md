@@ -8,7 +8,7 @@
 
 ### 👤 About
 
-Sou um profissional de segurança baseado no Brasil, especializado em Blue Team e Threat Hunting. Amo caçar ameaças e entender como atacantes pensam.
+Profissional de segurança especializado em Blue Team e Threat Hunting. Amo caçar ameaças e entender como atacantes pensam.
 
 Me preocupo muito com detecção e resposta a incidentes, e tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cortex XDR. Também participo de programas de bug bounty para manter as skills afiadas.
 
