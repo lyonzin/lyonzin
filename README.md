@@ -248,7 +248,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Fluent-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Basic-A855F7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Português-Native-C084FC?style=for-the-badge"/>
 </p>
 
