@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b4e,100:0d1117&height=120&section=header"/>
-
 <p align="center">
   <a href="https://github.com/lyonzin">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Lyon+-+Blue+Team+%26+Threat+Hunter;Detection+Engineer+%7C+Ethical+Hacking;%E3%83%84" alt="Typing SVG" />
@@ -33,7 +31,6 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
   <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/><br/>
   <img src="https://img.shields.io/badge/SPOTIFY_PLAYER-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Player"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ TECH STACK                                                                    -->
@@ -60,7 +57,6 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 <!-- ▼ ARTIFICIAL INTELLIGENCE                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=2&section=header"/>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%A4%96+ARTIFICIAL+INTELLIGENCE;%26+HACKING+AUTOMATION" alt="AI Section"/>
@@ -143,7 +139,6 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 <!-- ▼ CERTIFICATIONS                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2d1b4e&height=2&section=header"/>
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/🏅_CERTIFICATIONS-2d1b4e?style=for-the-badge"/>
@@ -345,7 +340,6 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b4e,100:0d1117&height=120&section=footer"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Desenvolvido+com+%F0%9F%9B%A1%EF%B8%8F+e+paix%C3%A3o+por+Blue+Team+%26+Threat+Hunting+%E3%83%84" alt="Footer"/>
