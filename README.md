@@ -17,7 +17,7 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 <p align="center">
   <a href="https://lyonzin.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-A855F7?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/aiiltonrocha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
