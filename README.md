@@ -171,7 +171,7 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 <br/>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="55%" valign="top">
 
