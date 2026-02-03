@@ -15,7 +15,7 @@ Tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cor
 Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering defensivo e automação de threat hunting com LLMs & A Multi-Agents de IA focados em atividades Offensiva.
 <br/>
 
-<p align="Leftr">
+<p align="center">
   <a href="https://lyonzin.github.io/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-A855F7?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
