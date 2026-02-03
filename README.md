@@ -171,9 +171,9 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 <br/>
 
-<p>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Hacker GIF"/>
-</p>
+<table>
+<tr>
+<td width="55%" valign="top">
 
 <details open>
 <summary><b>📋 Detalhes das Certificações</b></summary>
@@ -196,22 +196,22 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 </details>
 
 <details>
-<summary><b>🎓 GoHacking Certifications (6)</b></summary>
+<summary><b>🎓 GoHacking (6)</b></summary>
 <br/>
 
-| Certificação | Área |
-|:------------:|:----:|
-| **GADFOW** | Advanced Digital Forensics for Windows |
-| **GADD** | Active Directory Defense |
-| **GERM** | Reverse Engineering Malware |
-| **GADO** | Active Directory Operations |
+| Cert | Área |
+|:----:|:----:|
+| **GADFOW** | Digital Forensics Windows |
+| **GADD** | AD Defense |
+| **GERM** | RE Malware |
+| **GADO** | AD Operations |
 | **GADCS** | AD Certificate Services |
-| **GEPE** | Endpoint Protection Evasion |
+| **GEPE** | Endpoint Evasion |
 
 </details>
 
 <details>
-<summary><b>📚 Treinamentos</b></summary>
+<summary><b>📚 Treinamentos (9)</b></summary>
 <br/>
 
 | Treinamento | Instituição |
@@ -219,8 +219,8 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 | Web API Exploitation | Sec4Us |
 | Digital Forensics | Sec4Us |
 | AD Exploitation | Sec4Us |
-| Pentest Profissional | Desec Security |
-| WiFi Hacking Enterprise | Desec Security |
+| Pentest Profissional | Desec |
+| WiFi Hacking Enterprise | Desec |
 | HTB Academy | HackTheBox |
 | Hacking Club | Hacking Club |
 | IPv6 Avançado | NIC.br |
@@ -228,7 +228,16 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 </details>
 
-<br clear="both"/>
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Hacker GIF"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ SPECIALTIES                                                                   -->
