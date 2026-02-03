@@ -25,7 +25,7 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
   <a href="https://github.com/lyonzin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lyonzin&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=lyonzin&style=for-the-badge&color=A855F7&label=👁️+VIEWS" alt="Profile Views"/>
 </p>
 
 <p align="center">
