@@ -150,23 +150,23 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/eCIR-Incident_Response-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/eCTHP-Threat_Hunting-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DCPT-Pentest-A855F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SCFE-Forensics-C084FC?style=for-the-badge"/>
+  <a href="https://ine.com/security/certifications/ecir-certification"><img src="https://img.shields.io/badge/eCIR-Incident_Response-7C3AED?style=for-the-badge"/></a>
+  <a href="https://ine.com/security/certifications/ecthp-certification"><img src="https://img.shields.io/badge/eCTHP-Threat_Hunting-8B5CF6?style=for-the-badge"/></a>
+  <a href="https://desecsecurity.com/curso/pentest-experience"><img src="https://img.shields.io/badge/DCPT-Pentest-A855F7?style=for-the-badge"/></a>
+  <a href="https://sec4us.com.br/certificacao/scfe-sec4us-certified-forensics-expert/"><img src="https://img.shields.io/badge/SCFE-Forensics-C084FC?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCFR-Falcon_Responder-FC4C02?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CCFA-Falcon_Admin-FC4C02?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Splunk_Enterprise-Admin-65A637?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Splunk_Cloud-Admin-65A637?style=for-the-badge"/>
+  <a href="https://www.crowdstrike.com/en-us/crowdstrike-university/crowdstrike-falcon-certification-program/"><img src="https://img.shields.io/badge/CCFR-Falcon_Responder-FC4C02?style=for-the-badge"/></a>
+  <a href="https://www.crowdstrike.com/en-us/crowdstrike-university/crowdstrike-falcon-certification-program/"><img src="https://img.shields.io/badge/CCFA-Falcon_Admin-FC4C02?style=for-the-badge"/></a>
+  <a href="https://www.splunk.com/en_us/training/certification-track/splunk-enterprise-certified-admin.html"><img src="https://img.shields.io/badge/Splunk_Enterprise-Admin-65A637?style=for-the-badge"/></a>
+  <a href="https://www.splunk.com/en_us/training/certification-track/splunk-cloud-certified-admin.html"><img src="https://img.shields.io/badge/Splunk_Cloud-Admin-65A637?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GCA-Guardicore_Admin-0096D6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GCAA-Guardicore_Advanced-0096D6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DANTE-HackTheBox_ProLab-9FEF00?style=for-the-badge&logoColor=black"/>
+  <a href="https://www.akamai.com/global-services/services/guardicore-training"><img src="https://img.shields.io/badge/GCA-Guardicore_Admin-0096D6?style=for-the-badge"/></a>
+  <a href="https://www.akamai.com/global-services/services/guardicore-training"><img src="https://img.shields.io/badge/GCAA-Guardicore_Advanced-0096D6?style=for-the-badge"/></a>
+  <a href="https://www.hackthebox.com/hacker/pro-labs"><img src="https://img.shields.io/badge/DANTE-HackTheBox_ProLab-9FEF00?style=for-the-badge&logoColor=black"/></a>
 </p>
 
 <br/>
