@@ -60,7 +60,7 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 <!-- ▼ ARTIFICIAL INTELLIGENCE                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=header"/>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%A4%96+ARTIFICIAL+INTELLIGENCE;%26+HACKING+AUTOMATION" alt="AI Section"/>
