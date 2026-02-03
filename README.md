@@ -171,48 +171,43 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Hacker GIF"/>
 
 <details open>
-<summary><b>📋 Detalhes das Certificações</b></summary>
-<br/>
+<summary><b>📋 Certificações (11)</b></summary>
 
-| Certificação | Instituição | Área |
-|:------------:|:-----------:|:----:|
-| **eCIR** | INE/eLearnSecurity | Incident Response |
-| **eCTHP** | INE/eLearnSecurity | Threat Hunting |
-| **CCFR** | CrowdStrike | Falcon Responder |
-| **CCFA** | CrowdStrike | Falcon Administrator |
-| **GCA** | Akamai | Guardicore Admin |
-| **GCAA** | Akamai | Guardicore Advanced Admin |
-| **DCPT** | Desec Security | Penetration Testing |
-| **SCFE** | Sec4Us | Digital Forensics |
-| **Splunk Enterprise** | Splunk | Certified Admin |
-| **Splunk Cloud** | Splunk | Certified Admin |
-| **DANTE** | HackTheBox | ProLab |
+| Certificação | Instituição |
+|:------------:|:-----------:|
+| **eCIR** | INE/eLearnSecurity |
+| **eCTHP** | INE/eLearnSecurity |
+| **CCFR** | CrowdStrike |
+| **CCFA** | CrowdStrike |
+| **GCA** | Akamai |
+| **GCAA** | Akamai |
+| **DCPT** | Desec Security |
+| **SCFE** | Sec4Us |
+| **Splunk Enterprise** | Splunk |
+| **Splunk Cloud** | Splunk |
+| **DANTE** | HackTheBox |
 
 </details>
 
 <details>
 <summary><b>🎓 GoHacking (6)</b></summary>
-<br/>
 
 | Cert | Área |
 |:----:|:----:|
-| **GADFOW** | Digital Forensics Windows |
+| **GADFOW** | Forensics Windows |
 | **GADD** | AD Defense |
 | **GERM** | RE Malware |
 | **GADO** | AD Operations |
-| **GADCS** | AD Certificate Services |
+| **GADCS** | AD Cert Services |
 | **GEPE** | Endpoint Evasion |
 
 </details>
 
 <details>
 <summary><b>📚 Treinamentos (9)</b></summary>
-<br/>
 
 | Treinamento | Instituição |
 |:-----------:|:-----------:|
@@ -220,24 +215,15 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 | Digital Forensics | Sec4Us |
 | AD Exploitation | Sec4Us |
 | Pentest Profissional | Desec |
-| WiFi Hacking Enterprise | Desec |
+| WiFi Hacking | Desec |
 | HTB Academy | HackTheBox |
 | Hacking Club | Hacking Club |
 | IPv6 Avançado | NIC.br |
-| Privacy & Data Protection | EXIN |
+| EXIN Privacy | EXIN |
 
 </details>
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Hacker GIF"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br clear="both"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ SPECIALTIES                                                                   -->
