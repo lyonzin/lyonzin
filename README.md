@@ -279,6 +279,23 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+
+<a href="https://github.com/lyonzin/AD-LogonHours">
+  <img src="https://img.shields.io/badge/🕐_AD--LogonHours-1a0a2e?style=for-the-badge&logoColor=white" alt="AD-LogonHours"/>
+</a>
+
+<p><sub>PowerShell scripts para gerenciar restrições de horário de logon no Active Directory (Set/Clear/Restore)</sub></p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/lyonzin/AD-LogonHours?style=flat-square&color=A855F7&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/github/forks/lyonzin/AD-LogonHours?style=flat-square&color=C084FC&labelColor=1a0a2e"/>
+  <img src="https://img.shields.io/badge/PowerShell-1a0a2e?style=flat-square&logo=powershell&logoColor=A855F7"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 <br/>
