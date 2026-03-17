@@ -311,22 +311,6 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ▼ LANGUAGES                                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/🗣️_LANGUAGES-2d1b4e?style=for-the-badge"/>
-</h2>
-
-<p align="center">
-  <img src="https://flagcdn.com/w40/us.png" width="28" height="28" alt="US" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/English-Basic-A855F7?style=for-the-badge"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://flagcdn.com/w40/br.png" width="28" height="28" alt="BR" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/Português-Native-C084FC?style=for-the-badge"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ METRICS                                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
