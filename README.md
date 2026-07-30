@@ -220,6 +220,7 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 <br clear="both"/>
 
+<h2 align="center">
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ FEATURED PROJECTS                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
