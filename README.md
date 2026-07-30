@@ -132,14 +132,11 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 <p align="center">
   <code>🔒 AI + Security = Detecção Inteligente de Ameaças</code>
 </p>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ CERTIFICATIONS                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-
 <h2 align="center">
   <img src="https://img.shields.io/badge/🏅_CERTIFICATIONS-2d1b4e?style=for-the-badge"/>
 </h2>
@@ -225,7 +222,6 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 <!-- ▼ FEATURED PROJECTS                                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
   <img src="https://img.shields.io/badge/🧩_FEATURED_PROJECTS-2d1b4e?style=for-the-badge"/>
 </h2>
 
