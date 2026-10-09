@@ -74,7 +74,7 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
 
 <p>
   <img src="https://img.shields.io/badge/Claude-1a0a2e?style=for-the-badge&logo=anthropic&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/GPT--5-1a0a2e?style=for-the-badge&logo=openai&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/GPT-1a0a2e?style=for-the-badge&logo=openai&logoColor=A855F7"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Ollama-1a0a2e?style=for-the-badge&logo=ollama&logoColor=A855F7"/>
