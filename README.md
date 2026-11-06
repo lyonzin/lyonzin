@@ -4,7 +4,12 @@
   </a>
 </p>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/assets/ascii-lyon.svg?v=2" alt="Retrato de Lyon em ASCII">
+<a href="https://github.com/lyonzin/lyonzin">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyonzin/lyonzin/main/card/dark_mode.svg?v=1">
+    <img alt="Ailton Rocha (lyonzin): ficha do perfil no estilo neofetch" src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/card/light_mode.svg?v=1">
+  </picture>
+</a>
 
 ## 👤 About
 
@@ -33,7 +38,6 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
   <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/><br/>
   <img src="https://img.shields.io/badge/SPOTIFY_PLAYER-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Player"/>
 </p>
-<br clear="right"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ TECH STACK                                                                    -->

@@ -1,0 +1,48 @@
+# Card do perfil (card/dark_mode.svg e card/light_mode.svg) com os números do GitHub, todo dia às
+# 04:00 UTC e a cada push no main. Vai em .github/workflows/card.yml no repo lyonzin/lyonzin, que é
+# público: os minutos do Actions não custam nada.
+# O script usa só a biblioteca padrão do Python, então não há nada para instalar. O token vem do segredo
+# METRICS_TOKEN, o mesmo do metrics.yml. O push do bot sai com o GITHUB_TOKEN e por isso não dispara
+# outra execução; o pull --rebase cobre o commit diário do metrics.yml, que mexe em outros arquivos.
+name: Profile card
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gera o card
+        env:
+          ACCESS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python card/card.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add card/dark_mode.svg card/light_mode.svg card/cache
+          git commit -m "Updates profile card" || echo "No changes"
+          git pull --rebase origin main
+          git push
