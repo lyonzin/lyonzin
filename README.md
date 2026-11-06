@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<img align="right" width="340" src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/assets/ascii-lyon.svg" alt="Retrato de Lyon em ASCII">
+
 ## 👤 About
 
 Sou Engenheiro de Detecção. Construo detecções que pegam atacantes antes deles causarem dano. Minha especialidade é encontrar o que os atacantes tentam esconder.
@@ -11,7 +13,7 @@ Sou Engenheiro de Detecção. Construo detecções que pegam atacantes antes del
 Tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cortex XDR. Também participo de programas de bug bounty para manter as skills afiadas.
 
 Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering defensivo e automação de threat hunting com LLMs & A Multi-Agents de IA focados em atividades Offensiva.
-<br/>
+<br clear="right"/>
 
 <p align="center">
   <a href="https://lyonzin.github.io/">
