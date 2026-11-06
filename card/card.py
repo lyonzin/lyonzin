@@ -33,7 +33,7 @@ PROFILE: tuple[tuple[str, str] | None, ...] = (
     ("Uptime", ""),  # calculado em uptime()
     ("Host", "HARDWAY"),
     ("Kernel", "Threat Hunter & Detection Engineer"),
-    ("IDE", "VS Code, Neovim, Claude Code"),
+    ("IDE", "Visual Studio, VS Code, Cursor"),
     None,
     ("Languages.Programming", "Python, PowerShell, C++, Bash"),
     ("Languages.Query", "CQL, SPL, SQL"),
