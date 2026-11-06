@@ -13,7 +13,7 @@ Sou Engenheiro de Detecção. Construo detecções que pegam atacantes antes del
 Tenho experiência com diversas plataformas de EDR como CrowdStrike Falcon e Cortex XDR. Também participo de programas de bug bounty para manter as skills afiadas.
 
 Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering defensivo e automação de threat hunting com LLMs & A Multi-Agents de IA focados em atividades Offensiva.
-<br clear="right"/>
+<br/>
 
 <p align="center">
   <a href="https://lyonzin.github.io/">
@@ -33,6 +33,7 @@ Atualmente explorando IA aplicada à segurança: RAG systems, prompt engineering
   <img src="https://spotify-now-playing-pied-delta.vercel.app/api/spotify?background_color=1a0a2e&border_color=7C3AED" alt="Spotify Now Playing" width="400"/><br/>
   <img src="https://img.shields.io/badge/SPOTIFY_PLAYER-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Player"/>
 </p>
+<br clear="right"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▼ TECH STACK                                                                    -->
