@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/assets/ascii-lyon.svg" alt="Retrato de Lyon em ASCII">
+<img align="right" width="340" src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/assets/ascii-lyon.svg?v=2" alt="Retrato de Lyon em ASCII">
 
 ## 👤 About
 
