@@ -31,7 +31,7 @@ CAREER_START = date(2014, 1, 1)  # Uptime: anos completos em segurança desde 20
 PROFILE: tuple[tuple[str, str] | None, ...] = (
     ("OS", "Windows 11, Kali Linux, Debian"),
     ("Uptime", ""),  # calculado em uptime()
-    ("Host", "Vivo (Telefônica Brasil)"),
+    ("Host", "HARDWAY"),
     ("Kernel", "Threat Hunter & Detection Engineer"),
     ("IDE", "VS Code, Neovim, Claude Code"),
     None,
@@ -41,6 +41,7 @@ PROFILE: tuple[tuple[str, str] | None, ...] = (
     None,
     ("Hobbies.Hacking", "Hack The Box Pro Labs"),
     ("Hobbies.Building", "AI agents, MCP servers"),
+    ("Hobbies.Gaming", "Counter-Strike 2"),
 )
 CONTACT = (("Portfolio", "lyonzin.github.io"), ("LinkedIn", "aiiltonrocha"), ("GitHub", "lyonzin"))
 LEAD = ". "

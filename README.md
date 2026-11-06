@@ -6,8 +6,8 @@
 
 <a href="https://github.com/lyonzin/lyonzin">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyonzin/lyonzin/main/card/dark_mode.svg?v=1">
-    <img alt="Ailton Rocha (lyonzin): ficha do perfil no estilo neofetch" src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/card/light_mode.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyonzin/lyonzin/main/card/dark_mode.svg?v=2">
+    <img alt="Ailton Rocha (lyonzin): ficha do perfil no estilo neofetch" src="https://raw.githubusercontent.com/lyonzin/lyonzin/main/card/light_mode.svg?v=2">
   </picture>
 </a>
 
